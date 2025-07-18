@@ -56,23 +56,6 @@ src/frontend/components/UploadComponent/UploadForm.js
 Copy the provided CSS code (from the upload-form-css immersive) into a file named UploadForm.css in the same directory as UploadForm.js:
 src/frontend/components/UploadComponent/UploadForm.css
 
-Your project structure should look something like this:
-
-my-upload-app/
-├── public/
-├── src/
-│   ├── frontend/
-│   │   └── components/
-│   │       └── UploadComponent/
-│   │           ├── UploadForm.js
-│   │           └── UploadForm.css
-│   │           └── README.md (this file)
-│   ├── App.js  (or your main entry component)
-│   └── index.js
-│   └── ...
-├── package.json
-└── ...
-
 Integrate into your App.js (or main component):
 Open your project's main App.js file (usually src/App.js) and replace its content with the following to render the UploadForm component:
 

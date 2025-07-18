@@ -1,4 +1,5 @@
 UploadForm Component
+
 This React component provides a user-friendly interface for uploading audio and video files, featuring both drag-and-drop functionality and a traditional file browse button. It includes client-side validation for file type and size before initiating an upload to a backend API.
 
 What it Does
